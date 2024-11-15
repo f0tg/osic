@@ -1,7 +1,8 @@
 {
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "devDependencies": {
     "buffer": "^6.0.3",
