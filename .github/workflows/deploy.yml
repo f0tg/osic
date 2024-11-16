@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: Deploy to GitHub Pages
-=======
-name: Build and Deploy
->>>>>>> 4967ee13491d7e21707228609e3b42731573469c
 
 on:
   push:
