@@ -23,8 +23,6 @@ jobs:
 
       - name: Build project
         run: npm run build
-        env:
-          PUBLIC_URL: "./"
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
