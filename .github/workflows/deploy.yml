@@ -27,7 +27,7 @@ jobs:
       - name: Clean up previous worktree (if exists)
         run: |
           if [ -d github-pages-deploy-action-temp-deployment-folder ]; then
-            git worktree remove github-pages-deploy-action-temp-deployment-folder --force
+            git worktree remove github-pages-deploy-action-temp-deployment-folder --force 
           fi
 
       - name: Deploy to GitHub Pages
