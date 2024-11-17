@@ -38329,7 +38329,7 @@ function $1774cd67fd42b8ce$var$compare(a, b) {
 
 var $560c9e2bcfb7ef21$exports = {};
 
-(parcelRequire("aKzDW")).register(new URL("", import.meta.url).toString(), JSON.parse("[\"iuBaH\",\"index.62046246.js\",\"5uXBr\",\"yang.57ffc7c0.svg\",\"eZbZZ\",\"yin.52ce1596.svg\"]"));
+(parcelRequire("aKzDW")).register(new URL("", import.meta.url).toString(), JSON.parse("[\"iuBaH\",\"index.222dc1a0.js\",\"5uXBr\",\"yang.57ffc7c0.svg\",\"eZbZZ\",\"yin.52ce1596.svg\"]"));
 
 var $7a9e3af60a5cf647$exports = {};
 
@@ -39641,6 +39641,7 @@ const $21b8d8a1d7c4dca7$var$styles = `
   border-radius: 4px;
   cursor: pointer;
   transition: all 0.2s ease;
+  font-family: inherit;
 }
 
 #infoBtn:hover {
@@ -39853,4 +39854,4 @@ function $6388102aa56084d8$var$animate() {
 $6388102aa56084d8$var$animate();
 
 
-//# sourceMappingURL=index.62046246.js.map
+//# sourceMappingURL=index.222dc1a0.js.map
