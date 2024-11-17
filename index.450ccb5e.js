@@ -38329,7 +38329,7 @@ function $1774cd67fd42b8ce$var$compare(a, b) {
 
 var $560c9e2bcfb7ef21$exports = {};
 
-(parcelRequire("aKzDW")).register(new URL("", import.meta.url).toString(), JSON.parse("[\"iuBaH\",\"index.a5545d0b.js\",\"5uXBr\",\"yang.57ffc7c0.svg\",\"eZbZZ\",\"yin.52ce1596.svg\"]"));
+(parcelRequire("aKzDW")).register(new URL("", import.meta.url).toString(), JSON.parse("[\"iuBaH\",\"index.450ccb5e.js\",\"5uXBr\",\"yang.57ffc7c0.svg\",\"eZbZZ\",\"yin.52ce1596.svg\"]"));
 
 var $7a9e3af60a5cf647$exports = {};
 
@@ -39553,8 +39553,18 @@ random.org generates random numbers using atmospheric noise. In the case that ra
 
 The I Ching is something hard to pin down. 
 Most guides on using it tell you to have some specific issue in mind you'd like to address;
- and doing this certainly grants you new insight into the matter. But I've found it can also be very fruitful even when you have nothing in particular in your mind: often I find it's only when I have nothing specific of which to inquire that the oracle grants me an insight that is relevant to something that has been bothering me. Had I had something too premeditated on my mind, I would already know what I am inquiring about, rendering it futile to consult the I Ching. This is one motivation behind this instance of the I Ching; to quickly let the oracle inform you about something you might have been overlooking consciously.
-`;
+ and doing this certainly grants you new insight into the matter. 
+ But I've found it can also be very fruitful even when you have nothing in particular in your mind: 
+ often I find it's only when I have nothing specific of which to inquire that the oracle grants me an insight that is relevant to something that has been bothering me. Had I had something too premeditated on my mind, I would already know what I am inquiring about, rendering it futile to consult the I Ching. This is one motivation behind this instance of the I Ching; to quickly let the oracle inform you about something you might have been overlooking consciously.
+
+## credit
+[twitter (@foodofthegods3)](https://x.com/foodofthegods3)
+
+[github](https://github.com/f0tg/osic)
+
+[hexagrams.json](https://gist.github.com/krry/7e2b3282702685a65ffc717730c73180)
+
+ `;
 function $21b8d8a1d7c4dca7$var$openModal() {
     const modal = document.getElementById('aboutModal');
     const contentDiv = document.getElementById('markdownContent');
@@ -39854,4 +39864,4 @@ function $6388102aa56084d8$var$animate() {
 $6388102aa56084d8$var$animate();
 
 
-//# sourceMappingURL=index.a5545d0b.js.map
+//# sourceMappingURL=index.450ccb5e.js.map
