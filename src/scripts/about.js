@@ -27,8 +27,18 @@ random.org generates random numbers using atmospheric noise. In the case that ra
 
 The I Ching is something hard to pin down. 
 Most guides on using it tell you to have some specific issue in mind you'd like to address;
- and doing this certainly grants you new insight into the matter. But I've found it can also be very fruitful even when you have nothing in particular in your mind: often I find it's only when I have nothing specific of which to inquire that the oracle grants me an insight that is relevant to something that has been bothering me. Had I had something too premeditated on my mind, I would already know what I am inquiring about, rendering it futile to consult the I Ching. This is one motivation behind this instance of the I Ching; to quickly let the oracle inform you about something you might have been overlooking consciously.
-`;
+ and doing this certainly grants you new insight into the matter. 
+ But I've found it can also be very fruitful even when you have nothing in particular in your mind: 
+ often I find it's only when I have nothing specific of which to inquire that the oracle grants me an insight that is relevant to something that has been bothering me. Had I had something too premeditated on my mind, I would already know what I am inquiring about, rendering it futile to consult the I Ching. This is one motivation behind this instance of the I Ching; to quickly let the oracle inform you about something you might have been overlooking consciously.
+
+## credit
+[twitter (@foodofthegods3)](https://x.com/foodofthegods3)
+
+[github](https://github.com/f0tg/osic)
+
+[hexagrams.json](https://gist.github.com/krry/7e2b3282702685a65ffc717730c73180)
+
+ `;
 
 
 function openModal() {

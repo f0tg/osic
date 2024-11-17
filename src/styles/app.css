@@ -151,7 +151,7 @@ h1 {
 }
 
 h2 {
-    color: #333333; /* Accent color for headings */
+    color: #c0c0c0; /* Accent color for headings */
 }
 
 #originalText, #transformedText {
@@ -201,6 +201,7 @@ h2 {
     border-radius: 6px;
     z-index: 100; /* Ensures the tooltip is above other content */
     
+
 
 }
 
