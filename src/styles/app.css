@@ -69,11 +69,12 @@ a:hover {
     transition: all 0.2s ease;
 
     font-family: inherit;
+    font-size: medium;
 }
 
 #generateHexagram:hover {
-    border-color: #fff;
-    color: #fff;
+    border-color: #c0c0c0;
+    color: #c0c0c0;
   }
 
 /*
@@ -109,7 +110,7 @@ h1 {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
-    color: #c0c0c0;
+    color: hsl(0, 0%, 75%);
 }
 
 #hexagramsContainer {
@@ -151,7 +152,7 @@ h1 {
 }
 
 h2 {
-    color: #c0c0c0; /* Accent color for headings */
+    color: #333333; /* Accent color for headings */
 }
 
 #originalText, #transformedText {

@@ -138,8 +138,8 @@ const styles = `
 }
 
 #infoBtn:hover {
-  border-color: #fff;
-  color: #fff;
+  border-color: #c0c0c0;
+  color: #c0c0c0;
 }
 
 /* Markdown content styles */
