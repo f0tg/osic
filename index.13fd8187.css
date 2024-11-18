@@ -34,14 +34,15 @@ a:hover {
   margin: 1rem auto;
   padding: .5rem 1rem;
   font-family: inherit;
+  font-size: medium;
   transition: all .2s;
   display: block;
   position: relative;
 }
 
 #generateHexagram:hover {
-  color: #fff;
-  border-color: #fff;
+  color: silver;
+  border-color: silver;
 }
 
 footer {
@@ -58,7 +59,7 @@ div {
 }
 
 h1 {
-  color: silver;
+  color: #bfbfbf;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
@@ -98,7 +99,7 @@ h1 {
 }
 
 h2 {
-  color: silver;
+  color: #333;
 }
 
 #originalText, #transformedText {
@@ -175,4 +176,4 @@ h2 {
     transform: translate(-50%, -50%);
   }
 }
-/*# sourceMappingURL=index.901775ff.css.map */
+/*# sourceMappingURL=index.13fd8187.css.map */
